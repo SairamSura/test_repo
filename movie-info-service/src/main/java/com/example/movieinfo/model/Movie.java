@@ -49,5 +49,7 @@ public class Movie {
 	public void setOverview(String overview) {
 		this.overview = overview;
 	}
+	public void foo() {
+	}
 
 }
